@@ -1,0 +1,30 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "react-prac",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+      "babel-core" : "^5.8.*",
+      "babel-loader" : "^5.3.*",
+      "webpack" : "1.12.*",
+      "webpack-dev-server": "^1.10.*"
+  },
+  "dependencies": {
+      "react" : "^0.13.*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinyoungyee/react-practice.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "mufasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinyoungyee/react-practice/issues"
+  },
+  "homepage": "https://github.com/jinyoungyee/react-practice#readme"
+}
